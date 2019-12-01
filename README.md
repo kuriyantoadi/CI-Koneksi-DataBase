@@ -9,7 +9,7 @@ Menghubungkan CI dengan Database
   <br>Awal Baris 92 :
   <br>`$autoload['helper'] = array('');`
   <br>Edit :
-  <br>`autoload['helper'] = array('url');`
+  <br>`$autoload['helper'] = array('url');`
 
   <br>Awal Baris 61 :
   <br>`  $autoload['libraries'] = array('');`
