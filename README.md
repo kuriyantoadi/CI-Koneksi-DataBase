@@ -26,4 +26,8 @@ Menghubungkan CI dengan Database
   **5. Tambahkan beberapa file berikut**
   - application/controllers/Belajar.php
   - application/view/v_user.php
-  - application/models/M_data.php 
+  - application/models/M_data.php
+
+
+  **6. Buka dengan Link berikut**
+  <br>`localhost/ci-koneksi/index.php/belajar/user`
